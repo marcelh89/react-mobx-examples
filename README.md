@@ -1,10 +1,9 @@
 # Collection of react-mobx projects
 
 
-### Boilerplate / Starter Projects
+### Starter Project
 
 mobx-react-starter
-mobx-react-boilerplate
 
 ### Example Projects
 
