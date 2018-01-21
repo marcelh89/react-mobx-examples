@@ -1,7 +1,7 @@
 {
-  "name": "mobx-react-starter",
+  "name": "my-mobx-react-listdetailview",
   "version": "0.0.1",
-  "description": "Starter Package for upcomming Mobx React Tutorial",
+  "description": "example application for a simple list-detail-view using react and mobx",
   "main": "index.js",
   "repository": "git@github.com:orlando-paredes-hamsho/mobx-react-starter.git",
   "scripts": {
@@ -18,7 +18,8 @@
     "lint",
     "test"
   ],
-  "author": "Orlando Paredes Hamsho",
+  "license": "MIT",
+  "author": "Marcel Hinderlich",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.1",
